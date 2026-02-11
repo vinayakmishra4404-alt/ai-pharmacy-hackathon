@@ -1,0 +1,74 @@
+[
+  {
+    "medicine": "Paracetamol",
+    "use": "fever headache pain body ache dental pain",
+    "dose": "500mg-1000mg every 4-6 hours",
+    "warning": "Max 4000mg per day. Avoid alcohol. Liver damage risk if exceeded."
+  },
+  {
+    "medicine": "Ibuprofen",
+    "use": "pain inflammation fever arthritis muscle pain menstrual cramps",
+    "dose": "200mg-400mg every 4-6 hours",
+    "warning": "Take with food. Max 1200mg per day. Avoid if stomach ulcers."
+  },
+  {
+    "medicine": "Cetirizine",
+    "use": "allergy cold sneezing runny nose itching hay fever",
+    "dose": "10mg once daily",
+    "warning": "May cause drowsiness. Avoid driving or operating machinery."
+  },
+  {
+    "medicine": "ORS (Oral Rehydration Solution)",
+    "use": "dehydration diarrhea vomiting loose motions",
+    "dose": "1 sachet dissolved in 1 liter of clean water",
+    "warning": "Drink slowly. Refrigerate after preparation. Use within 24 hours."
+  },
+  {
+    "medicine": "Antacid (Ranitidine/Omeprazole)",
+    "use": "acidity heartburn stomach pain indigestion acid reflux",
+    "dose": "150mg twice daily or 20mg once daily",
+    "warning": "Take before meals. Consult doctor if symptoms persist."
+  },
+  {
+    "medicine": "Cough Syrup (Dextromethorphan)",
+    "use": "dry cough throat irritation",
+    "dose": "10-20ml every 6-8 hours",
+    "warning": "Do not exceed recommended dose. May cause drowsiness."
+  },
+  {
+    "medicine": "Loperamide",
+    "use": "diarrhea loose motions",
+    "dose": "2mg after each loose stool",
+    "warning": "Max 8mg per day. Stop if diarrhea persists beyond 48 hours."
+  },
+  {
+    "medicine": "Diclofenac Gel",
+    "use": "muscle pain joint pain sprains arthritis",
+    "dose": "Apply thin layer 3-4 times daily",
+    "warning": "External use only. Wash hands after application."
+  },
+  {
+    "medicine": "Vitamin C",
+    "use": "immunity cold prevention fatigue weakness",
+    "dose": "500mg-1000mg daily",
+    "warning": "High doses may cause stomach upset. Drink plenty of water."
+  },
+  {
+    "medicine": "Zinc Supplement",
+    "use": "immunity cold duration hair loss",
+    "dose": "15-30mg daily",
+    "warning": "Take with food. May cause nausea if taken on empty stomach."
+  },
+  {
+    "medicine": "Probiotic",
+    "use": "digestive health diarrhea antibiotic recovery",
+    "dose": "1 capsule daily",
+    "warning": "Store in refrigerator. Take 2 hours away from antibiotics."
+  },
+  {
+    "medicine": "Diphenhydramine",
+    "use": "allergy insomnia itching",
+    "dose": "25-50mg at bedtime",
+    "warning": "Causes drowsiness. Do not drive. Not for daily use."
+  }
+]

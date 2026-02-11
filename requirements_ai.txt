@@ -1,0 +1,16 @@
+# AI Pharmacy Assistant - Python Dependencies
+
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# Google AI
+google-generativeai==0.3.2
+
+# Environment Variables (for production)
+python-dotenv==1.0.0
+
+# Optional: For enhanced features
+# python-multipart==0.0.6  # For file uploads
+# slowapi==0.1.9  # For rate limiting

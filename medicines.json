@@ -1,0 +1,20 @@
+[
+  {
+    "medicine": "Paracetamol",
+    "use": "fever headache pain",
+    "dose": "500mg",
+    "warning": "Not more than 4 per day"
+  },
+  {
+    "medicine": "Cetirizine",
+    "use": "allergy cold sneezing",
+    "dose": "10mg",
+    "warning": "May cause sleep"
+  },
+  {
+    "medicine": "ORS",
+    "use": "dehydration diarrhea",
+    "dose": "1 sachet in water",
+    "warning": "Drink slowly"
+  }
+]
